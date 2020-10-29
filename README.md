@@ -1,2 +1,2 @@
-# Computing-the-World
-Numerical Computing Worker
+# Compute the world
+# Generative design
